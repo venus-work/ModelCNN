@@ -1,0 +1,27 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bird",
+      "text": "",
+      "points": [
+        [
+          14.925531914893611,
+          21.04255319148936
+        ],
+        [
+          222.1063829787234,
+          156.41489361702125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "bird_ (29).jpg",
+  "imageData": null,
+  "imageHeight": 224,
+  "imageWidth": 224
+}

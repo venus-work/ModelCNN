@@ -1,0 +1,27 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "drone",
+      "text": "",
+      "points": [
+        [
+          7.8617021276595835,
+          20.989361702127653
+        ],
+        [
+          197.90425531914894,
+          138.06382978723403
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "test_ (23).jpg",
+  "imageData": null,
+  "imageHeight": 224,
+  "imageWidth": 224
+}

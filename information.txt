@@ -1,0 +1,18 @@
+Dataset 500
+bird 250
+drone 250
+
+Train 
+bird 150
+drone 150
+
+Test 
+bird 50
+drone 50
+
+Val
+bird 50
+drone 50
+
+
+'
